@@ -1,13 +1,12 @@
 
-Ciencia y Análisis de datos | Investigador en Ciencias Sociales
+Hi 👋
+I'm Pedro.
 
-Soy Licenciado en Psicología y Doctor en Ciencias Sociales. 
-Cuento una amplia trayectoria en investigación académica en el área de las ciencias sociales, y me encuentro realizando la transición hacia la ciencia de datos.
-Actualmente soy investigador en el CONICET, y en el último año me he formado en ciencia y análisis de datos, en programación Python y manejo SQL. 
-Durante mi carrera como investigador, he podido desarrollar la capacidad de obtener y manejar datos complejos y abundantes y de formular las preguntas más pertinentes, así como perfeccionar las habilidades analíticas para responderlas, para extraer de ellos información significativa. 
-Me caracteriza la aptitud para la planificación y la organización, para determinar objetivos factibles y establecer las acciones pertinentes para conseguirlos y las habilidades para trabajar en equipo, coordinar esfuerzos y comunicar de modo preciso los resultados de mi trabajo. 
-Poseo una gran experiencia en el trabajo por proyectos y en la coordinación de equipos interdisciplinarios; así como versatilidad para superar los obstáculos e imprevistos.
-Me motiva el deseo de aprender continuamente, garantizar la resolución de problemas y la voluntad de plantearme nuevos desafíos y de trabajar para alcanzarlos de forma proactiva.
+I'm a Social Sciences academic researcher with a background in Psychology making the transition to Data Science, with especial interest in Behavioral Data Science.
+
+I'm passionate about producing meaningful information concerning human behavior that can be applied in different fields.
+
+
 
 
 <!--
