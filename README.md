@@ -6,12 +6,12 @@
 Bridging 15+ years of academic research with data science to solve business challenges that require understanding human behavior and social dynamics.
 
 ### 🧠 What Makes My Code Different
-I don't just analyze patterns—I understand the psychology and social context behind the data.
+I don't just analyze patterns—I understand the psychology, social dynamics and cultural context behind the data.
 
 ### 🌎 Background
 - **Argentina-Mexico** cultural perspective for cross-border analysis
 - **CONICET Senior Researcher** at Universidad de Buenos Aires
-- **Psychology + Social Sciences PhD** bringing behavioral insights to data
+- **Psychology + Social Sciences PhD** bringing psychological and social insights to data
 - **15+ years** of rigorous research methodology
 
 ### 🔧 Technical Stack
@@ -35,7 +35,7 @@ Sentiment analysis system for reputation management with >85% accuracy
 ### 🎯 Current Focus
 - 🔍 Social media monitoring for NGO applications
 - 📈 Business intelligence for LATAM markets  
-- 🧠 Applying behavioral psychology to data analysis
+- 🧠 Applying psychology and social science analysis to data challenges
 - 🌐 Contributing to Spanish-language NLP development
 
 ### 📈 GitHub Activity
@@ -48,4 +48,4 @@ Sentiment analysis system for reputation management with >85% accuracy
 
 ---
 
-*"Bringing academic rigor and psychological insights to data science, one dataset at a time."*
+*"Bringing academic rigor, psychological and social science insights to data science, one dataset at a time."*
