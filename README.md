@@ -1,42 +1,46 @@
 # 👋 Hi, I'm Pedro Cerruti
-### Data Scientist & Researcher | Python • SQL • NLP | Building insights from text and social data
+### Data Scientist & Researcher | Psychology + Social Sciences PhD | Python • SQL • NLP
 
-## 🎓 Psychology + Social Sciences PhD → Data Science
+## 🎓 Academic Methodology → Business Analytics
 
-Bridging 15+ years of academic research with data science to solve business challenges that require understanding human behavior and social dynamics.
-
-### 🧠 What Makes My Code Different
-I don't just analyze patterns—I understand the psychology, social dynamics and cultural context behind the data.
+15+ years of research methodology at CONICET-UBA, now applied to business data challenges. I bring critical thinking from social science research and psychological insights into user behavior patterns.
 
 ### 🌎 Background
-- **Argentina-Mexico** cultural perspective for cross-border analysis
-- **CONICET Senior Researcher** at Universidad de Buenos Aires
-- **Psychology + Social Sciences PhD** bringing psychological and social insights to data
-- **15+ years** of rigorous research methodology
+- **Psychology + Social Sciences PhD** at Universidad de Buenos Aires
+- **CONICET Senior Researcher** with 15+ years of methodological rigor
+- **Argentina-Mexico perspective** for LATAM market intelligence
+- **Academic-business bridge** adapting validation standards for practical timelines
 
 ### 🔧 Technical Stack
 - **Languages**: Python, SQL
 - **Data Analysis**: Pandas, NumPy, scikit-learn, matplotlib, seaborn
 - **Web Scraping**: Selenium, BeautifulSoup, Scrapy
-- **NLP**: NLTK, TextBlob, spaCy
-- **Tools**: Jupyter, Git, VS Code
+- **NLP**: NLTK, TextBlob, spaCy, sentiment analysis
+- **Methods**: TF-IDF clustering, topic modeling, methodological triangulation
+
+### 🔬 Methodological Approach
+My work combines:
+- Critical thinking from social science research
+- Psychological and social insights into user behavior
+- Methodological triangulation for robust conclusions in limited-data contexts
+- Cultural intelligence for cross-border market understanding
 
 ### 📊 Featured Projects
 
-#### 🛒 E-commerce Crisis Detection Framework
-Sentiment analysis system for reputation management with >85% accuracy
-- **Challenge**: Predict reputation crises 1-2 months before traditional methods
-- **Solution**: Combined web scraping + NLP + social psychology insights
-- **Impact**: Early warning system for e-commerce platforms
-- **Stack**: Python, Selenium, NLTK, scikit-learn
+#### 🛒 E-commerce Reputation Analysis
+Methodological case study demonstrating EDA-NLP triangulation for crisis detection
+- **Challenge**: Extract actionable insights from limited dataset (1,085 reviews)
+- **Solution**: Automated crisis detection 3+ months before traditional metrics
+- **Method**: Convergence between quantitative analysis and semantic clustering
+- **Impact**: 99% identification of root cause without manual categorization
 
-*Repository coming soon...*
+*[Repository: E-commerce Reputation Analysis](link-pending)*
 
 ### 🎯 Current Focus
-- 🔍 Social media monitoring for NGO applications
-- 📈 Business intelligence for LATAM markets  
-- 🧠 Applying psychology and social science analysis to data challenges
-- 🌐 Contributing to Spanish-language NLP development
+- 📈 Business intelligence for LATAM markets
+- 🔍 Reputation monitoring systems for e-commerce/fintech
+- 🌐 Spanish-language NLP development and applications
+- 🤝 Social impact analytics for NGOs and policy research
 
 ### 📈 GitHub Activity
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroCerruti&show_icons=true&theme=default)
@@ -48,4 +52,4 @@ Sentiment analysis system for reputation management with >85% accuracy
 
 ---
 
-*"Bringing academic rigor, psychological and social science insights to data science, one dataset at a time."*
+*"Bringing academic methodology to business analytics, one validated insight at a time."*
