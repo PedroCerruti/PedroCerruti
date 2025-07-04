@@ -42,9 +42,6 @@ Methodological case study demonstrating EDA-NLP triangulation for crisis detecti
 - 🌐 Spanish-language NLP development and applications
 - 🤝 Social impact analytics for NGOs and policy research
 
-### 📈 GitHub Activity
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroCerruti&show_icons=true&theme=default)
-
 ### 🤝 Let's Connect
 - 💼 LinkedIn: [linkedin.com/in/pedrocerruti](https://www.linkedin.com/in/pedrocerruti)
 - 📧 Email: pedrocerruti@gmail.com
