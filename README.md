@@ -34,7 +34,7 @@ Methodological case study demonstrating EDA-NLP triangulation for crisis detecti
 - **Method**: Convergence between quantitative analysis and semantic clustering
 - **Impact**: 99% identification of root cause without manual categorization
 
-*[Repository: E-commerce Reputation Analysis](link-pending)*
+**[🔗 View Repository: E-commerce Reputation Analysis](https://github.com/PedroCerruti/analisis-reputacional-smartphones)**
 
 ### 🎯 Current Focus
 - 📈 Business intelligence for LATAM markets
