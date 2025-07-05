@@ -45,7 +45,7 @@ Methodological case study demonstrating EDA-NLP triangulation for crisis detecti
 ### 🤝 Let's Connect
 - 💼 LinkedIn: [linkedin.com/in/pedrocerruti](https://www.linkedin.com/in/pedrocerruti)
 - 📧 Email: pedrocerruti@gmail.com
-- 🌐 Portfolio: Coming soon...
+- 🌐 Portfolio: [pedrocerruti.github.io](https://pedrocerruti.github.io)
 
 ---
 
